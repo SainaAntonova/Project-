@@ -36,7 +36,7 @@
 
 
 
-## Команда проекта
+## Команда проекта - SEABORN
 - [Саина](https://github.com/SainaAntonova)
 - [Сауле](https://github.com/SauleBis) 
 - [Вера](https://github.com/VerVelVel)
